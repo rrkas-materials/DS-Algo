@@ -13,3 +13,7 @@ Topics:
 * Circular Queue
 * Priority Queue
 * Deque
+* Linked List
+  * singly linked list
+  * doubly linked list
+  * circular linked list
