@@ -20,3 +20,4 @@ Topics:
     * circular singly linked list
     * circular doubly linked list
 * Hash Table
+* Heap
