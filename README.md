@@ -21,3 +21,4 @@ Topics:
     * circular doubly linked list
 * Hash Table
 * Heap
+* Fibonacci Heap
