@@ -17,3 +17,5 @@ Topics:
   * singly linked list
   * doubly linked list
   * circular linked list
+    * circular singly linked list
+    * circular doubly linked list
