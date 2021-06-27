@@ -4,10 +4,11 @@ By: Rohnak Agarwal
 
 [Source](https://www.programiz.com/dsa)
 
-**PART – 1**
+## **PART – 1**
 
 Basic DS & Algos
 
 Topics:
 
 * Stack
+* Queue
