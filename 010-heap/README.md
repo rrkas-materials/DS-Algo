@@ -18,3 +18,8 @@
   * delete element in heap
   * peek
   * extract min/max : Extract-Max returns the node with maximum value after removing it from a Max Heap whereas Extract-Min returns the node with minimum after removing it from Min Heap.
+* applications
+
+  * Heap is used while implementing a priority queue.
+  * Dijkstra’s Algorithm
+  * Heap Sort
