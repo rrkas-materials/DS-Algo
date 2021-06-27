@@ -11,3 +11,4 @@ Topics:
 * Stack
 * Queue
 * Circular Queue
+* Priority Queue
