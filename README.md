@@ -12,3 +12,4 @@ Topics:
 * Queue
 * Circular Queue
 * Priority Queue
+* Deque
