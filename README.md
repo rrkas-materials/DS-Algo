@@ -26,7 +26,7 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
 * Simple Tree
   * Binary Tree
 
-    * Full Binary Tree
+    * Full Binary Tree **or** Proper Binary Tree
     * Perfect Binary Tree
     * Complete Binary Tree
     * Degenerate or Pathological Tree
