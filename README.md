@@ -25,7 +25,6 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
 
 * Tree
   * Binary Tree
-
     * Full Binary Tree **or** Proper Binary Tree
     * Perfect Binary Tree
     * Complete Binary Tree
