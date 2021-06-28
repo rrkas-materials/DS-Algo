@@ -33,3 +33,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
       * left-skewed binary tree
       * right-skewed binary tree
     * Balanced Binary Tree
+  * Binary Search Tree
