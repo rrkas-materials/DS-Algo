@@ -14,4 +14,16 @@
   * union
   * extract min
   * deleting key and node
-*
+* complexities
+
+
+| Insertion | O(1) |
+| - | - |
+| Find Min | O(1) |
+| Union | O(1) |
+| Extract Min | O(log n) |
+| Decrease Key | O(1) |
+| Delete Node | O(log n) |
+
+* applications:
+  * To improve the asymptotic running time of Dijkstra's algorithm.
