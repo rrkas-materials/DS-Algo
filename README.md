@@ -23,7 +23,7 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
 
 ## PART - 2 : Tree and Graph
 
-* Simple Tree
+* Tree
   * Binary Tree
 
     * Full Binary Tree **or** Proper Binary Tree
