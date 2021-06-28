@@ -24,3 +24,13 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
 ## PART - 2 : Tree and Graph
 
 * Simple Tree
+  * Binary Tree
+
+    * Full Binary Tree
+    * Perfect Binary Tree
+    * Complete Binary Tree
+    * Degenerate or Pathological Tree
+    * Skewed Binary Tree
+      * left-skewed binary tree
+      * right-skewed binary tree
+    * Balanced Binary Tree
