@@ -36,3 +36,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Binary Search Tree
   * AVL Tree
   * B-Tree or *B Tree*
+  * B+ Tree
