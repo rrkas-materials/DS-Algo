@@ -28,7 +28,7 @@
 * Binary Tree
 * Binary Search tree
 * AVL Tree
-* B-Tree
+* B Tree
 
 ## Operations
 
