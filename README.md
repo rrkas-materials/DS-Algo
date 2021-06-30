@@ -39,3 +39,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * B+ Tree
   * Red-Black Tree
 * Graph
+  * Spanning Tree

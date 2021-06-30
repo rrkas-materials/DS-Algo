@@ -33,6 +33,15 @@ A graph is a data structure (V, E) that consists of
 * The index of the array represents a vertex and each element in its linked list represents the other vertices that form an edge with the vertex.
 * An adjacency list is efficient in terms of storage because we only need to store the values for the edges. For a graph with millions of vertices, this can mean a lot of saved space.
 
+## Undirected and Connected Graphs
+
+* An **undirected graph** is a graph in which the edges do not point in any direction (ie. the edges are bidirectional).![](imgs\undirected-graph.webp)
+* A **connected graph** is a graph in which there is always a path from a vertex to any other vertex.![](imgs\connected-graph.webp)
+
+## Types of Graphs
+
+* Spanning Tree
+
 ## Operations
 
 * Check if the element is present in the graph
