@@ -30,6 +30,7 @@
 * AVL Tree
 * B-Tree *or* B tree
 * B+ Tree
+* Red-Black Tree
 
 ## Operations
 

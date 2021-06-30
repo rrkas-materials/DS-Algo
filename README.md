@@ -37,3 +37,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * AVL Tree
   * B-Tree or *B Tree*
   * B+ Tree
+  * Red-Black Tree
