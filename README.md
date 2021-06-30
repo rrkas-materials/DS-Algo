@@ -38,3 +38,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * B-Tree or *B Tree*
   * B+ Tree
   * Red-Black Tree
+* Graph
