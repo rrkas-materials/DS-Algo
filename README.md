@@ -40,3 +40,5 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Red-Black Tree
 * Graph
   * Spanning Tree
+  * Strongly Connected Graph
+    * Kosaraju's Algorithm
