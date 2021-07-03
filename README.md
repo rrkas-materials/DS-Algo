@@ -46,3 +46,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Adjacency List **(028)**
   * Depth first Search **(029)**
   * Breadth First Search **(030)**
+  * Bellman Ford algorithm **(031)**

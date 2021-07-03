@@ -47,6 +47,7 @@ A graph is a data structure (V, E) that consists of
 * Adjacency List
 * Depth first Search
 * Breadth First Search
+* Bellman Ford Algorithm
 
 ## Operations
 
