@@ -47,3 +47,7 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Depth first Search **(029)**
   * Breadth First Search **(030)**
   * Bellman Ford algorithm **(031)**
+
+## Sorting and Searching Algorithms
+
+* Bubble Sort **(032)**
