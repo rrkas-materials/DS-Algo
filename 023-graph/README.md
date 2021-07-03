@@ -46,6 +46,7 @@ A graph is a data structure (V, E) that consists of
 * Adjacency Matrix
 * Adjacency List
 * Depth first Search
+* Breadth First Search
 
 ## Operations
 
