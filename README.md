@@ -43,3 +43,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Strongly Connected Graph
     * Kosaraju's Algorithm
   * Adjacency Matrix
+  * Adjacency List
