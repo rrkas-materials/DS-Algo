@@ -44,3 +44,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
     * Kosaraju's Algorithm
   * Adjacency Matrix
   * Adjacency List
+  * Depth first Search

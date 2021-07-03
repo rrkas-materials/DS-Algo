@@ -45,6 +45,7 @@ A graph is a data structure (V, E) that consists of
   * Kosaraju's Algorithm
 * Adjacency Matrix
 * Adjacency List
+* Depth first Search
 
 ## Operations
 
