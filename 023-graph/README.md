@@ -43,6 +43,7 @@ A graph is a data structure (V, E) that consists of
 * Spanning Tree
 * Strongly Connected Graph
   * Kosaraju's Algorithm
+* Adjacency Matrix
 
 ## Operations
 

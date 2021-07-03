@@ -42,3 +42,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Spanning Tree
   * Strongly Connected Graph
     * Kosaraju's Algorithm
+  * Adjacency Matrix
