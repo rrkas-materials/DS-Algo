@@ -50,11 +50,13 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
 
 ## Sorting and Searching Algorithms
 
-* Bubble Sort **(032)**
-* Optimized Bubble Sort Algorithm **(033)**
-* Selection Sort **(034)**
-* Insertion sort **(035)**
-* Merge Sort **(036)**
-* Quicksort **(037)**
-* Counting Sort **(038)**
-* Radix sort **(039)**
+* Sorting
+  * Bubble Sort **(032)**
+  * Optimized Bubble Sort Algorithm **(033)**
+  * Selection Sort **(034)**
+  * Insertion sort **(035)**
+  * Merge Sort **(036)**
+  * Quicksort **(037)**
+  * Counting Sort **(038)**
+  * Radix sort **(039)**
+  * Bucket Sort **(040)**
