@@ -55,3 +55,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
 * Selection Sort **(034)**
 * Insertion sort **(035)**
 * Merge Sort **(036)**
+* Quicksort **(037)**
