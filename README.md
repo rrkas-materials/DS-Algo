@@ -56,3 +56,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
 * Insertion sort **(035)**
 * Merge Sort **(036)**
 * Quicksort **(037)**
+* Counting Sort **(038)**
