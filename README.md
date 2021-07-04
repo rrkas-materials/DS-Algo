@@ -64,3 +64,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Shell sort **(042)**
 * Searching
   * Linear search **(043)**
+  * Binary Search **(044)**
