@@ -62,3 +62,5 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Bucket Sort **(040)**
   * Heap Sort **(041)**
   * Shell sort **(042)**
+* Searching
+  * Linear search **(043)**
