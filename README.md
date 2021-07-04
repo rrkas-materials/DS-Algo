@@ -53,3 +53,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
 * Bubble Sort **(032)**
 * Optimized Bubble Sort Algorithm **(033)**
 * Selection Sort **(034)**
+* Insertion sort **(035)**
