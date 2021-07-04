@@ -61,3 +61,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Radix sort **(039)**
   * Bucket Sort **(040)**
   * Heap Sort **(041)**
+  * Shell sort **(042)**
