@@ -62,6 +62,9 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Bucket Sort **(040)**
   * Heap Sort **(041)**
   * Shell sort **(042)**
+
+![](sort-compare.png)
+
 * Searching
   * Linear search **(043)**
   * Binary Search **(044)**
