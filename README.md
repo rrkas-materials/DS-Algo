@@ -51,4 +51,5 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
 ## Sorting and Searching Algorithms
 
 * Bubble Sort **(032)**
-* Optimized Bubble Sort Algorithm (033)
+* Optimized Bubble Sort Algorithm **(033)**
+* Selection Sort **(034)**
