@@ -60,3 +60,4 @@ By: [Rohnak Agarwal](https://rrka79wal.herokuapp.com/)
   * Counting Sort **(038)**
   * Radix sort **(039)**
   * Bucket Sort **(040)**
+  * Heap Sort **(041)**
