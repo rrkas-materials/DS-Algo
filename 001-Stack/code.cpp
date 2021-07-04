@@ -38,7 +38,7 @@ int isempty(st *s) {
 // Add elements into stack
 void push(st *s, int newitem) {
   if (isfull(s)) {
-    printf("STACK FULL");
+    cout<<"STACK FULL";
   } else {
     s->top++;
     s->items[s->top] = newitem;
@@ -49,9 +49,9 @@ void push(st *s, int newitem) {
 // Remove element from stack
 void pop(st *s) {
   if (isempty(s)) {
-    printf("\n STACK EMPTY \n");
+    cout<<"\n STACK EMPTY \n";
   } else {
-    printf("Item popped= %d", s->items[s->top]);
+    cout<<"Item popped= "<< s->items[s->top];
     s->top--;
   }
   size--;
@@ -60,7 +60,7 @@ void pop(st *s) {
 
 // Print elements of stack
 void printStack(st *s) {
-  printf("Stack: ");
+  cout<<"Stack: ";
   for (int i = 0; i < size; i++) {
     cout << s->items[i] << " ";
   }

@@ -1,6 +1,6 @@
 // Queue implementation in Java
 
-public class Queue {
+class Queue {
     int SIZE = 5;
     int items[] = new int[SIZE];
     int front, rear;

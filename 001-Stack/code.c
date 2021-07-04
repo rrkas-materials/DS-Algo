@@ -59,8 +59,9 @@ void pop(st *s) {
 
 // Print elements of stack
 void printStack(st *s) {
+  int i;
   printf("Stack: ");
-  for (int i = 0; i < count; i++) {
+  for (i = 0; i < count; i++) {
     printf("%d ", s->items[i]);
   }
   printf("\n");
